@@ -1,0 +1,43 @@
+
+
+
+#container{
+margin: 10%;
+width: 170px;
+height: 150px;
+display: flex;
+flex-wrap: wrap;
+
+}
+.bloc {
+    background-color: rgba(32, 52, 154, 0.505);
+    width: 50px;
+    height: 50px;
+    border: 3px solid rgb(200, 206, 224);
+    color: rgb(252, 252, 249);
+    text-align: center;
+    border-radius: 10%;
+}
+
+
+#Gamecadre {
+   display: flex;
+   flex-direction: column;
+   justify-items: center;
+   align-items: center;
+width: fit-content;
+padding: 10%;
+margin-inline: 35%;
+background-color: #33023A;
+
+}
+
+h1 {
+    color: aliceblue;
+}
+
+h2 {
+
+ color: #726ABF; 
+
+}
