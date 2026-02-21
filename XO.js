@@ -265,6 +265,21 @@ function playO() {
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 /*
 
 container.addEventListener ("click", () =>{
