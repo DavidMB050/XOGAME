@@ -1,3 +1,6 @@
+
+<img width="486" height="543" alt="XOimg" src="https://github.com/user-attachments/assets/bdb17c16-b632-4d6e-b069-460a3c1604c8" />
+
 # 🎮 XO GAME – Tic-Tac-Toe
 
 ## 📌 Présentation
@@ -67,8 +70,7 @@ L'application repose sur trois technologies principales :
 
 ## 🔮 Améliorations envisagées
 
-- Ajouter un mode multijoueur.
-- Améliorer l'intelligence artificielle de la machine.
+- Ajouter une intelligence artificielle à la machine.
 - Ajouter un système de score et de statistiques.
 - Optimiser l'expérience utilisateur sur mobile.
 
